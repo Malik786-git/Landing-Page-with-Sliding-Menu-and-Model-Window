@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+:root{
+    --model-duration:1s;
+}
+nav{
+    background-color: brown;
+    border-right: 2px solid rgba(200, 200, 200, 0.1);
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100vh;
+    z-index: 100 ;
+}
+
+
+
+
